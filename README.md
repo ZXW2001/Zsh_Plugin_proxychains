@@ -6,7 +6,6 @@ modify from sudo plugin, add proxychains command to the head of this line
 
 `
 cd ~./oh-my-zsh/plugins/
-
 git clone https://github.com/ZXW2001/proxychains.git
 `
 
@@ -26,7 +25,6 @@ the default hotkey is alt + c,
 ## 安装方式
 
 `cd ~./oh-my-zsh/plugins/
-
 git clone https://github.com/ZXW2001/proxychains.git
 `
 
